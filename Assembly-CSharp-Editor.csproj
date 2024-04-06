@@ -62,8 +62,13 @@
     <Compile Include="Assets\Piloto Studio\Readme\Scripts\Editor\ReadmeEditor.cs" />
     <Compile Include="Assets\BrokenVector\LowPolyBrickHouses\Editor\ModelCustomizerInspector.cs" />
     <Compile Include="Assets\Piloto Studio\Readme\Scripts\Editor\ReadmeEditorStyles.cs" />
+    <Compile Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Scripts\Editor\CTI_URP_ShaderGUI.cs" />
     <Compile Include="Assets\Piloto Studio\Readme\Scripts\Editor\ReadmeBehaviourEditor.cs" />
+    <Compile Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Scripts\Editor\CTI_URPWindDrawer.cs" />
     <Compile Include="Assets\Piloto Studio\Readme\Scripts\Editor\ReadmeHierarchy.cs" />
+    <Compile Include="Assets\Forst\Conifers [BOTD]\Installer\Editor\ConifersInstaller.cs" />
+    <Compile Include="Assets\Forst\Conifers [BOTD]\Installer\Editor\LaunchConifersInstaller.cs" />
+    <Compile Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Scripts\Editor\CTI_URPTransDrawer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

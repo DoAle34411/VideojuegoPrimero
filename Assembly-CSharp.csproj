@@ -60,14 +60,24 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Piloto Studio\Readme\Scripts\ReadmeBehaviour.cs" />
+    <Compile Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Scripts\CTI_URP_CustomWind.cs" />
     <Compile Include="Assets\BrokenVector\LowPolyBrickHouses\Scripts\ModelCustomizer.cs" />
     <Compile Include="Assets\Piloto Studio\Readme\Scripts\Readme.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Shaders\Includes\CTI URP SG Lighting.hlsl" />
     <None Include="Assets\Fantasy Forest Environment Free Sample\StandardNoCulling.shader" />
+    <None Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Shaders\Includes\CTI URP SG BillboardVertex.hlsl" />
     <None Include="Assets\Baker House\Readme.txt" />
+    <None Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Shaders\Includes\CTI URP SG BillboardVertexSimple.hlsl" />
+    <None Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Shaders\Includes\CTI URP SG Utils.hlsl" />
+    <None Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Shaders\Includes\CTI URP SG BillboardFragment.hlsl" />
+    <None Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Known Issues.txt" />
     <None Include="Assets\BrokenVector\LowPolyShaders\Shaders\LowPolyUnlitShader.shader" />
     <None Include="Assets\BrokenVector\LowPolyShaders\Shaders\LowPolyPBRShader.shader" />
+    <None Include="Assets\Stylized NPC - Peasant Nolant\README.txt" />
+    <None Include="Assets\Forst\Conifers [BOTD]\Render Pipeline Support\URP\Known Issues.txt" />
+    <None Include="Assets\Forst\CTI Runtime Components\CTI Runtime Components URP 14plus\Shaders\Includes\CTI URP SG Wind.hlsl" />
     <None Include="Assets\BrokenVector\LowPolyBrickHouses\Shaders\FoliageShader.shader" />
   </ItemGroup>
   <ItemGroup>
