@@ -356,7 +356,9 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/BrokenVector/LowPolyBrickHouses/Scripts/ModelCustomizer.cs"
+"Assets/ControladorAnimaciones.cs"
 "Assets/Forst/CTI Runtime Components/CTI Runtime Components URP 14plus/Scripts/CTI_URP_CustomWind.cs"
+"Assets/MovementKnight.cs"
 "Assets/Piloto Studio/Readme/Scripts/Readme.cs"
 "Assets/Piloto Studio/Readme/Scripts/ReadmeBehaviour.cs"
 -langversion:9.0
